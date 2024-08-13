@@ -1,0 +1,9 @@
+[1m[32m    Finished[0m dev [unoptimized + debuginfo] target(s) in 0.02s
+[1m[32m     Running[0m `target/debug/echor`
+error: The following required arguments were not provided:
+    <Text>...
+
+USAGE:
+    echor [FLAGS] <Text>...
+
+For more information try --help
